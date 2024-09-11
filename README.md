@@ -24,6 +24,15 @@ Step 2: Download [graphics.h-project-template](https://github.com/ullaskunder3/g
 
 download zip file from above link and then extract the downloaded file, now you can paste the extracted folder wherever you want and rename the folder name, as shown in the image below.
 
-![K](https://github.com/user-attachments/assets/5cbf6eb0-4718-4185-b344-0a1080099948)
+![L](https://github.com/user-attachments/assets/3a18a0b7-f3f4-4fdf-96be-cbd1ad32b317)
+
+Now open copied folder and right click then choose open with code then your workspace will open in the visual studio code then trust the author to continue, as shown in the image below.
+
+![N](https://github.com/user-attachments/assets/3d4a4219-ae97-41f5-91aa-5ce9b0be80ce)
+
+Then the folder of your workspace will open in front of you, as shown in the image below.
+
+![O](https://github.com/user-attachments/assets/2b230556-597f-481f-b3e2-484af93f9cce)
+
 
 

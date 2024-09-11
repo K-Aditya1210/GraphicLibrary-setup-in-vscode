@@ -144,10 +144,11 @@ int main()
 ```
 
 NOTE 
+ALWAYS USE THIS ONE LINE CODE FOR PATH 
 ```
 char data[] = "C:\\MinGW\\lib\\libbgi.a"; // static file
 ```
-ALWAYS USE THIS ONE LINE CODE FOR PATH 
+
 
 Step 5: Now build and run the Code
 

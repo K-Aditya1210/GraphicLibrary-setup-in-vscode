@@ -39,7 +39,8 @@ Now let's talk about src, build and .vscode. How these three folders do works?
 Src : folder src contains source code files.
 Build : folder build where compiled .exe file will be stored.
 .vscode (DO NOT MODIFY ANYTHING IN THIS FOLDER) : .vscode includes c/cpp_properties.json and task.json that are required for compiling your computer graphics source code using graphics library.
-Step 9: Download required extensions for visual studio code
+
+Step 3: Download required extensions for visual studio code
 
 Once visual studio code is installed, now we need some extensions so let's install.
 
@@ -53,7 +54,7 @@ then the last extension comes our “exe runner”, for this, you have to search
 
 restart visual studio code after all three extensions have been installed, now we have successfully setup visual studio code for graphics programming.
 
-Step 10: Now go to src folder and click on Hut.cpp and open the file
+Step 4: Now go to src folder and click on Hut.cpp and open the file
 
 ```
 #include <stdio.h>
@@ -142,7 +143,7 @@ int main()
 }
 ```
 
-Step 11: Now build and run the Code
+Step 5: Now build and run the Code
 
 To build from source code using/including graphics library, press “Ctrl+Shift+B” to run the build task you will get the executable file in build folder which will have same name as our source code file but with an extension of “.exe”, as shown in the image below.
 

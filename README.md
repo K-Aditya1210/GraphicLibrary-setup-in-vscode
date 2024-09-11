@@ -143,6 +143,12 @@ int main()
 }
 ```
 
+NOTE 
+```
+char data[] = "C:\\MinGW\\lib\\libbgi.a"; // static file
+```
+ALWAYS USE THIS ONE LINE CODE FOR PATH 
+
 Step 5: Now build and run the Code
 
 To build from source code using/including graphics library, press “Ctrl+Shift+B” to run the build task you will get the executable file in build folder which will have same name as our source code file but with an extension of “.exe”, as shown in the image below.

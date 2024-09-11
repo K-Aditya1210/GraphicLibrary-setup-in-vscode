@@ -139,3 +139,20 @@ int main()
 
     return 0;
 }
+
+Step 11: Now build and run the Code
+
+To build from source code using/including graphics library, press “Ctrl+Shift+B” to run the build task you will get the executable file in build folder which will have same name as our source code file but with an extension of “.exe”, as shown in the image below.
+
+![P](https://github.com/user-attachments/assets/e0f41061-52bc-4ef8-95eb-96e5ef3cc076)
+
+now you will see the hut.exe file inside the build folder, you have to right click on this then click on run executable, as shown in the image below.
+
+![Q](https://github.com/user-attachments/assets/127df6ba-4174-4bfa-baef-9cc3eefffc90)
+
+Now your program will run and you will see a hut on the console that appears, as shown in the image below.
+
+![R](https://github.com/user-attachments/assets/212753de-cc4e-42a4-988d-246d56879603)
+
+now whenever you need to write a new code, just create a new file in src folder and write your source code in it the and build and run it just like we did for hut.cpp and hut.exe.
+

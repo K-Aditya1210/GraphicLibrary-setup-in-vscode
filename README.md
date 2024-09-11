@@ -55,6 +55,7 @@ restart visual studio code after all three extensions have been installed, now w
 
 Step 10: Now go to src folder and click on Hut.cpp and open the file
 
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -139,6 +140,7 @@ int main()
 
     return 0;
 }
+```
 
 Step 11: Now build and run the Code
 

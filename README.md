@@ -10,7 +10,10 @@ winbgim.h
 libbgi.a
 copy graphics.h and winbgim.h files then paste into MinGW/include folder, as shown in the image below.
 
-path might be ("C:\MinGW\include")
+path might be 
+```
+C:\MinGW\include
+```
 
 ![J](https://github.com/user-attachments/assets/f270596e-d0fa-4e69-9644-6a8653b71c37)
 
